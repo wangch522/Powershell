@@ -40,3 +40,10 @@
 
         
 
+1. New SSHkey
+2. `$ ssh-keygen -t rsa -b 4096 -C "wangch_522@126.com"`
+3. `git remote add **alisa name** [ssh url]`
+*    这h是另外一个
+*      还是另外一个
+    * 这我咋知道呢
+    * 
