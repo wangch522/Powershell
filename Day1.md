@@ -1,7 +1,7 @@
 
 ```Restart-Computer -whatif   whatif是告诉你命令是做什么```
 
-##操作符
+## 操作符
     -like
     -match
     -eq 
